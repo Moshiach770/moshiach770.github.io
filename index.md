@@ -1,5 +1,3 @@
-### BS"D
-
 ---
 layout: default
 ---
